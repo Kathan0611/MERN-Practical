@@ -2,10 +2,6 @@ import "./App.css";
 
 import AppRoutes from "./routes/AppRoutes";
 import { ToastContainer } from "react-toastify";
-// import { Provider } from "react-redux";
-// import Context from './context/index.js'
-// import { setUserDetails } from './store/userSlice.js'
-// import {useDispatch} from 'react-redux';
 
 const App = () => {
   return (
